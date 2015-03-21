@@ -1,20 +1,19 @@
-# ebiz_systemz
-販売管理のヱビス
+# 販売管理のヱビス
 
-This software is released under the MIT License, see LICENSE.txt.
+This software is released under the MIT License.
 
 販売管理ヱビスはおそらくMac界初の本格的な販売管理システムになります。そして同プログラムでWindows/Linuxでも動作するはず。:)
 
 
-このシステムは real studio 2012 release2.1 及び MySQL5.6.10 によって製作されています。
+* このシステムは real studio 2012 release2.1 及び MySQL5.6.10 によって製作されています。
 ebiz_source 以下に real studio のプログラム
 ebiz_sql 以下に MySQL のプログラム
 ebiz_documents 以下にドキュメント類を置きますが残念ながらメモ書き程度のものにっています。
 
-ドキュメント類はApple社のPages/Numbers及びLibreOfficeによって作成されています。
+* ドキュメント類はApple社のPages/Numbers及びLibreOfficeによって作成されています。
 
-このシステムについての詳細は https://www.facebook.com/hanbaiebiz を参照してください。
-RealStudioの仕様上、環境によっては画面及び帳票レイアウトの調整が必要になります。
+* このシステムについての詳細は https://www.facebook.com/hanbaiebiz を参照してください。
+* RealStudioの仕様上、環境によっては画面及び帳票レイアウトの調整が必要になります。
 残念ながらソースコードはバイナリです。RealStudioまたはXojoの試用版をダウンロードすればソースコードを見れるでしょう。
 
 
