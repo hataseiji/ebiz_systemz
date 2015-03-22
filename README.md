@@ -17,6 +17,7 @@ ebiz_documents 以下にドキュメント類を置きますが残念ながら�
 
 * 残念ながらソースコードはバイナリです。RealStudioまたはXojoの試用版をダウンロードすればソースコードを見れるでしょう。
 
+お問合せ先: <hataseiji@familystone.jp>
 
 Copyright (c) 2015 hataseiji  
 以下の条件を満たす限り、自由な複製・配布・修正を無制限に許可する。  
